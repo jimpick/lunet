@@ -1,1 +1,1 @@
-importScripts("https://lunet.link/lunet/proxy.js")
+importScripts("https://lunet.jimpick.com/lunet/proxy.js")

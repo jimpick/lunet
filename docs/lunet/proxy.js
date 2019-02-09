@@ -7,7 +7,7 @@ import * as Data from "./data.js"
 const NAME = "proxy"
 const VERSION = "0.0.6"
 const ID = `${NAME}@${VERSION}`
-const serviceURL = new URL("https://lunet.link/")
+const serviceURL = new URL("https://lunet.jimpick.com/")
 const clientURL = new URL("/lunet/client.js", serviceURL)
 const mountURL = new URL(
   new URL(location.href).searchParams.get("mount") || "",
